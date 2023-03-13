@@ -1,0 +1,26 @@
+﻿  Baton.cpp
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(9,10): error C2084: la fonction 'void Utilitaire::initialiserRandom(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(9,10): message : voir la définition précédente de 'initialiserRandom'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(16,9): error C2084: la fonction 'int Utilitaire::genererNombreAleatoire(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(16,9): message : voir la définition précédente de 'genererNombreAleatoire'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(6,31): error C2065: 'genererNombreAleatoire' : identificateur non déclaré
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(6,17): error C2440: 'initialisation' : impossible de convertir de 'int (__cdecl *)(void)' en 'int'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(6,17): message : Aucun contexte dans lequel cette conversion est possible
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(7,31): error C2065: 'genererNombreAleatoire' : identificateur non déclaré
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(7,17): error C2440: 'initialisation' : impossible de convertir de 'int (__cdecl *)(void)' en 'int'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(7,17): message : Aucun contexte dans lequel cette conversion est possible
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(36,14): error C2084: la fonction 'Sort *Baton::getSortAttaque(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.h(17,11): message : voir la définition précédente de 'getSortAttaque'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.cpp(41,14): error C2084: la fonction 'Sort *Baton::getSortDefense(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Baton.h(18,11): message : voir la définition précédente de 'getSortDefense'
+  DuelDeMagicien.cpp
+  Magicien.cpp
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(9,10): error C2084: la fonction 'void Utilitaire::initialiserRandom(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(9,10): message : voir la définition précédente de 'initialiserRandom'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(16,9): error C2084: la fonction 'int Utilitaire::genererNombreAleatoire(void)' a déjà un corps
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Utilitaire.h(16,9): message : voir la définition précédente de 'genererNombreAleatoire'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Magicien.cpp(47,48): error C2039: 'getPuissance' n'est pas membre de 'Sort'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Sort.h(7,7): message : voir la déclaration de 'Sort'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Magicien.cpp(57,46): error C2039: 'getPuissance' n'est pas membre de 'Sort'
+C:\Users\cleme\OneDrive - Cégep de Victoriaville\Desktop\Tech Info\SESSION 4\PROG 3\DuelDeMagicien\DuelDeMagicien\Sort.h(7,7): message : voir la déclaration de 'Sort'
+  Génération de code en cours...
